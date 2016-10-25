@@ -8,21 +8,21 @@ This code is intended as a solution for team 6194 and way for us to all comunica
 
 ##Robot Design Specifications
 1. Mecanum Wheel Based Drive
-..* 4x Motor w/ encoder 
+  * 4x Motor w/ encoder 
 
 2. Bend Based Shooter (Feedback Currently not included, Feedback bool in DriveTrain)
-..* 1x Motor w/ encoder
+  * 1x Motor w/ encoder
 
 3. Beacon Pushing Servo (Future Feature)
-..* 2x Color Sensor
-..* 1x Servo
+  * 2x Color Sensor
+  * 1x Servo
 
 4. Uncategorized Sensors
-..* 1x Phone Camera
-..* 1x Gyroscopic Sensor
-..* 1x Color Sensor (Floor)
-..* 2x RangeFinder
-..* TBD
+  * 1x Phone Camera
+  * 1x Gyroscopic Sensor
+  * 1x Color Sensor (Floor)
+  * 2x RangeFinder
+  * TBD
 
 ##Contributors
 + Donald Brown (FrostingFlames)
