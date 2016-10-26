@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DBrown2019/FTC6194_TeamCode.png?label=ready&title=Ready)](https://waffle.io/DBrown2019/FTC6194_TeamCode)
 #Team Code for FTC team 6194: Radical Change
 
 ##Synopsis
